@@ -9,6 +9,7 @@
 ![Windows](https://img.shields.io/badge/Windows-desktop-0078D4?style=for-the-badge)
 ![CSharp](https://img.shields.io/badge/C%23-.NET_Framework_4.8-512BD4?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-v18-E00000?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/license-MIT-22C55E?style=for-the-badge)](LICENSE)
 
 A desktop horror game filled with corrupted windows, gold, glitches, and a countdown that keeps moving.
 
@@ -107,5 +108,6 @@ Rendering previews are written to `dist/`. Animation targets 60 Hz; performance 
 
 This editable project grew from the original v13 C# builder into v18. The ransom messages are game visuals: the game does not encrypt files or change OS settings.
 
-Original-game artwork and supplied audio belong to their respective creators. Their inclusion does not grant a separate license to those assets.
+The project code is licensed under the [MIT License](LICENSE). Original-game artwork and supplied audio belong to their respective creators and are excluded from this license; their inclusion does not grant a separate license to those assets.
+
 
