@@ -1,0 +1,17 @@
+/.tools/
+/bin/
+/obj/
+/dist/
+/original/
+/recovered/
+/RANS0M_v13.exe
+/assets/intro.mp3
+/assets/caught.mp3
+/assets/download.mp3
+/assets/slash.mp3
+/assets/win.mp3
+__pycache__/
+*.user
+*.suo
+.env
+.env.*
