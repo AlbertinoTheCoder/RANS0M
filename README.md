@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="docs/images/icon.png" width="112" alt="RANS0M stop sign">
 
@@ -106,12 +106,8 @@ Rendering previews are written to `dist/`. Animation targets 60 Hz; performance 
 
 ## About
 
-This desktop game was made by AlbertinoTheCoder. The RANS0M entity is from **DOORS** and was created by its original creators, not by AlbertinoTheCoder.
+I made this desktop game. The RANS0M entity is from **DOORS**; I didn't create the entity. Credit for the entity goes to its original creators.
 
 This editable project grew from the original v13 C# builder into v18. The ransom messages are game visuals: the game does not encrypt files or change OS settings.
 
 The project code is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE). Noncommercial use, modification, and distribution are permitted under its terms. Original-game artwork and supplied audio belong to their respective creators and are excluded from this license; their inclusion does not grant a separate license to those assets.
-
-
-
-
