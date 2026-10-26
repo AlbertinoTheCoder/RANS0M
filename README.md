@@ -12,7 +12,7 @@
 
 A desktop horror game filled with corrupted windows, gold, glitches, and a countdown that keeps moving.
 
-[Play & build](#play--build) · [Controls](#controls) · [Inside the project](#inside-the-project)
+[Download & play](#download--play) · [Build from source](#build-from-source) · [Controls](#controls) · [Inside the project](#inside-the-project)
 
 <img src="docs/images/gameplay.png" width="900" alt="RANS0M gameplay with corrupted popup windows and collectible gold">
 
@@ -38,7 +38,17 @@ A silent opening face gives way to the stop sign and its sound cue. The download
 
 </details>
 
-## Play & build
+## Download & play
+
+**Just download and double-click [RANS0M_v18.exe](https://github.com/AlbertinoTheCoder/RANS0M/raw/refs/heads/main/RANS0M_v18.exe). No building or source files needed.**
+
+The EXE is also right in this repository's main folder and on the [v18 release page](https://github.com/AlbertinoTheCoder/RANS0M/releases/tag/v18). It runs on Windows with .NET Framework 4.8; images and audio are included inside the EXE.
+
+For a regular window, run `RANS0M_v18.exe --windowed`.
+
+## Build from source
+
+Only follow this section if you want to edit the game or compile it yourself.
 
 Requires **Windows** and the **.NET Framework 4.x compiler** included with compatible Windows installations. The optional IDE project targets **.NET Framework 4.8**.
 
@@ -98,3 +108,4 @@ Rendering previews are written to `dist/`. Animation targets 60 Hz; performance 
 This editable project grew from the original v13 C# builder into v18. The ransom messages are game visuals: the game does not encrypt files or change OS settings.
 
 Original-game artwork and supplied audio belong to their respective creators. Their inclusion does not grant a separate license to those assets.
+
